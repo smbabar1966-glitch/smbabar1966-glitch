@@ -1,21 +1,24 @@
-# Hi, I'm Shaida Khan 👋
+Hi, I'm Shaida Khan 👋  
+Data Scientist | Machine Learning | Deep Learning
 
-Entry-Level Data Scientist with hands-on experience in **Python, data analysis, machine learning, and deep learning**.
-
-I enjoy building end-to-end projects using real-world datasets and developing machine learning models.
+Entry-Level Data Scientist with hands-on experience in Python, machine learning, deep learning, and data analysis.  
+Experienced in building end-to-end machine learning projects using real-world datasets and deploying models for predictive tasks.
 
 ---
 
 ## 🔧 Skills
 
-- Python
-- Machine Learning
-- Deep Learning
-- PyTorch
-- Pandas
-- Scikit-Learn
-- Data Visualization
-- Matplotlib
+## 🔧 Skills
+
+🐍 Python  
+🔥 PyTorch  
+🤖 Machine Learning  
+🧠 Deep Learning  
+📊 Data Science  
+🐼 Pandas  
+📈 Scikit-Learn  
+📉 Data Visualization 
+🧮 NumPy
 
 ---
 
