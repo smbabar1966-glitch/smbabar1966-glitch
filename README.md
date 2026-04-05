@@ -4,6 +4,7 @@ Machine Learning | Deep Learning | NLP | Computer Vision
 
 Building real-world AI projects using Python and PyTorch.  
 Currently pursuing the IBM AI Engineering Professional Certificate.
+Focused on building AI solutions across NLP, computer vision, and predictive modeling.
 
 ---
 
