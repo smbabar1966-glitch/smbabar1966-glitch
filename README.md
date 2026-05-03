@@ -2,9 +2,13 @@
 
 Machine Learning | Deep Learning | NLP | Computer Vision  
 
-Building real-world AI projects using Python and PyTorch.  
-Currently pursuing the IBM AI Engineering Professional Certificate.
-Focused on building AI solutions across NLP, computer vision, and predictive modeling.
+Building real-world AI applications with a focus on Computer Vision, NLP, and Data Analysis.
+
+Developed projects such as:
+- ♻️ Smart Waste Sorting System (Computer Vision + Gradio)
+- 🤖 AI Document QA & Resume Intelligence System (RAG + LLM)
+
+Bringing extensive engineering experience and applying AI to solve practical, real-world problems.
 
 ---
 
