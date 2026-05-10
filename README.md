@@ -1,58 +1,77 @@
 # Hi, I'm Shaida 👋
 
-Machine Learning | Deep Learning | NLP | Computer Vision  
+IBM Certified AI Engineering & Data Science Professional
 
-Building real-world AI applications with a focus on Computer Vision, NLP, and Data Analysis.
+Machine Learning | Deep Learning | NLP | Computer Vision | AI Applications
 
-Developed projects such as:
-- ♻️ Smart Waste Sorting System (Computer Vision + Gradio)
-- 🤖 AI Document QA & Resume Intelligence System (RAG + LLM)
+Building real-world AI applications focused on Computer Vision, Document Intelligence, and Data Analytics.
 
-Bringing extensive engineering experience and applying AI to solve practical, real-world problems.
+## Real-World AI Projects
+
+- ♻️ Smart Waste Sorting System (TensorFlow + Gradio + Hugging Face)
+- 🏗️ Infrastructure Crack Detection System (PyTorch + Computer Vision)
+- 🤖 PrimeAI Document QA & Resume Intelligence System (RAG + LLM)
+- 🌧️ Rainfall Prediction ML System
+- 🚀 Falcon 9 Landing Success Prediction
+
+Bringing extensive engineering, technical training, and problem-solving experience into AI-driven solutions.
 
 ---
 
 ## 🛠 Skills
 
-**Programming:** Python  
-**Libraries:** NumPy, Pandas, Scikit-learn, PyTorch  
-**Machine Learning:** Classification, Regression, Model Evaluation  
-**Deep Learning:** CNN, RNN, Seq2Seq  
-**Domains:** NLP, Computer Vision  
-**Data Analysis:** Data Cleaning, EDA  
-**Tools:** Jupyter Notebook, Matplotlib, Git  
+### AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Transformers
+- Computer Vision
+- Retrieval-Augmented Generation (RAG)
+
+### Frameworks & Libraries
+- TensorFlow / Keras
+- PyTorch
+- Scikit-learn
+- LangChain
+- ChromaDB
+- Pandas
+- NumPy
+
+### Programming & Tools
+- Python
+- SQL
+- GitHub
+- Gradio
+- Hugging Face
+- Jupyter Notebook
+- VS Code
+
+### AI Domains
+- Document Intelligence
+- Resume Analysis
+- Computer Vision
+- Predictive Analytics
+- Data Visualization  
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔤 [Seq2Seq Language Translation (German → English)](https://github.com/shaida-khan/seq2seq-language-translation) ⭐
-Built an LSTM-based Seq2Seq model for German-to-English translation using PyTorch.  
-Implemented teacher forcing, sequence generation, and BLEU score evaluation with a full training pipeline.
+# Featured AI Projects
 
----
+## ♻️ Smart Waste Sorting System
+AI-powered waste classification system using TensorFlow, Computer Vision, and Gradio with live deployment on Hugging Face.
 
-### 🧠 [CNN Image Classifier (PyTorch)](https://github.com/shaida-khan/cnn-image-classifier-pytorch)
-Developed a CNN model for Fashion-MNIST image classification using PyTorch.  
-Achieved ~99% accuracy with training, validation, and performance tracking.
+## 🏗️ Infrastructure Crack Detection System
+Computer vision system using PyTorch to detect cracks in infrastructure images for future real-world inspection applications.
 
----
+## 🤖 PrimeAI Document QA & Resume Intelligence
+AI-powered RAG application using LangChain, Ollama, ChromaDB, and Gradio for document analysis and resume intelligence.
 
-### 🚀 [Falcon 9 Landing Prediction](https://github.com/shaida-khan/spacex-landing-prediction-ml)
-Built machine learning models to predict SpaceX Falcon 9 landing success using real API data.  
-Compared Logistic Regression and Random Forest performance.
+## 🌧️ Rainfall Prediction Classifier
+Machine learning pipeline comparing Logistic Regression and Random Forest models for weather prediction.
 
----
-
-### 🌧️ [Rainfall Prediction Model](https://github.com/shaida-khan/rainfall-prediction-ml)
-Developed a classification model using Scikit-learn to predict rainfall from historical weather data.  
-Applied feature engineering and model evaluation techniques.
-
----
-
-### 📊 [Stock Price Analysis (Python + SQL)](https://github.com/shaida-khan/stock-price-analysis-sql-python)
-Performed end-to-end analysis of stock price and revenue data using Python and SQL.  
-Identified trends and patterns through data cleaning and visualization.
+## 🚀 Falcon 9 Landing Success Prediction
+End-to-end ML project using SpaceX API data for predictive modeling and feature importance analysis.
 
 ---
 
