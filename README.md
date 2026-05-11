@@ -4,7 +4,7 @@ IBM Certified AI Engineering & Data Science Professional
 
 Machine Learning | Deep Learning | NLP | Computer Vision | AI Applications
 
-Building real-world AI applications focused on Computer Vision, Document Intelligence, and Data Analytics.
+Building real-world AI applications focused on Computer Vision, NLP, Machine Learning, and Data Analytics.
 
 ## Real-World AI Projects
 
